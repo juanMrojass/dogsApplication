@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogsApplication</string>
+    <string name="almost_years">Almost %d years</string>
+    <string name="dogs_we_love">Dogs We Love</string>
+</resources>
